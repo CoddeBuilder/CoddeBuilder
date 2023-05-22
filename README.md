@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CoddeBuilder
-- 👀 I’m interested in python first steps
-- 🌱 I’m currently learning python as first programming language
+- 👀 I’m interested in Front End first steps
+- 🌱 I’m currently learning HTML CSS and JS as first programming languages
 - 💞️ I’m looking to collaborate on everything which is in my reach
 - 📫 How to reach me? ceduardozr1@hotmail.com
 
